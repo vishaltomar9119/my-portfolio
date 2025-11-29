@@ -6,7 +6,7 @@ A personal portfolio site built with TypeScript, React, Vite, Tailwind CSS, and 
 This repository contains the source code for my portfolio website. It showcases projects, skills, and contact information.
 
 ## Demo
-Add your live site URL here (e.g., https://your-domain.com)
+Add your live site URL here (https://my-portfolio-gamma-vert-9ycf82efcc.vercel.app/)
 
 ## Features
 - Responsive design
